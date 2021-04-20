@@ -4,6 +4,7 @@ import { withAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
 
 function App() {
   return (
+    // Testing
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
